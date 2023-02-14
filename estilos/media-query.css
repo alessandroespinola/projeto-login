@@ -32,7 +32,7 @@ grandes telas: acima de 1200px
 @media screen and (min-width: 992px) {
 
   body {
-    background-image: linear-gradient(to top, #85a3a2, #95a0a0);
+    background-image: linear-gradient(to top, #7ca7a5, #95a0a0);
 }
   section#login {
     width: 950px;
