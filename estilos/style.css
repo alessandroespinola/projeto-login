@@ -29,7 +29,7 @@ section#login {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform:  translate(-50%, 10%);
+  transform:  translate(-50%, 20%);
   overflow: hidden;
 
   background-color: white;
@@ -45,7 +45,7 @@ section#login {
 
 section#login > div#imagem {
   display: block;
-  background: #93969bb2 url(../imagens/pexels-wallace-chuck-3728084.jpg);
+  background: #93969bb2 url(../imagens/pexels-wallace-chuck-3728084.jpg) no-repeat;
   background-size: cover;
   background-position:  right;
   height: 200px;
