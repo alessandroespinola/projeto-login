@@ -94,13 +94,13 @@ form > div.campo {
 div.campo > input {
   background-color: #4fbdb9 ;
   font-size: 1em;
-  width: calc(100% - 1px);
-  
+  width: calc(100% - px);
   height: 100%;
+  transform: translateY(-12px);
   border: 0px;
   border-radius: 8px;
   padding: 4px;
-  transform: translatey(-42px);
+  
 
 }
 
