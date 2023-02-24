@@ -94,9 +94,9 @@ form > div.campo {
 div.campo > input {
   background-color: #4fbdb9 ;
   font-size: 1em;
-  width: calc(100% - px);
+  width: calc(100% - 1px);
   height: 100%;
-  transform: translateY(-12px);
+  transform: translateY(-42px);
   border: 0px;
   border-radius: 8px;
   padding: 4px;
